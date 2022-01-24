@@ -15,7 +15,6 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "@remix-run/vercel": "^1.1.3",
     "prettier": "^2.5.1",
     "turbo": "latest"
   },
@@ -50,9 +49,5 @@
         "cache": false
       }
     }
-  },
-  "engines": {
-    "node": ">=14"
-  },
-  "sideEffects": false
+  }
 }
