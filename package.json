@@ -50,5 +50,9 @@
         "cache": false
       }
     }
-  }
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "sideEffects": false
 }
